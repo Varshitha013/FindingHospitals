@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/> 
+</listeners>
+  <test thread-count="5" name="SearchFilters">
+    <classes>
+    	 <!--   <class name="testCases.TC_ScheduleDemoForm"></class>  -->
+    	 <class name="testCases.TC_SearchDoctors"></class>
+    	 <class name="testCases.TC_Surgeries"></class> 
+      	  <class name="testCases.TC_ScheduleDemoForm"></class> 
+      	    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

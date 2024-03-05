@@ -1,0 +1,614 @@
+15:10:47.796 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:47.835 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:47.836 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:47.841 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:47.845 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:48.008 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:48.010 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:48.011 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:48.012 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:48.029 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:48.102 [main] DEBUG - Save content types part
+15:10:48.113 [main] DEBUG - Save package relationships
+15:10:48.116 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:48.117 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:48.124 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:48.126 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:48.128 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:48.129 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:48.130 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:48.142 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:48.143 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:48.146 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:48.151 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:48.337 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:48.340 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:48.343 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:48.345 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:48.366 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:48.414 [main] DEBUG - Save content types part
+15:10:48.419 [main] DEBUG - Save package relationships
+15:10:48.426 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:48.426 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:48.430 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:48.439 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:48.440 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:48.441 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:48.443 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:48.446 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:48.447 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:48.461 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:48.474 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:48.602 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:48.605 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:48.606 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:48.607 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:48.623 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:48.688 [main] DEBUG - Save content types part
+15:10:48.693 [main] DEBUG - Save package relationships
+15:10:48.695 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:48.696 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:48.704 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:48.705 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:48.706 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:48.709 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:48.710 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:48.714 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:48.714 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:48.720 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:48.723 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:48.844 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:48.845 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:48.846 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:48.847 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:48.862 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:48.909 [main] DEBUG - Save content types part
+15:10:48.913 [main] DEBUG - Save package relationships
+15:10:48.921 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:48.923 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:48.926 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:48.927 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:48.929 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:48.930 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:48.930 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:48.936 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:48.937 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:48.940 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:48.942 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:49.017 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:49.019 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:49.020 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:49.021 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:49.043 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:49.091 [main] DEBUG - Save content types part
+15:10:49.094 [main] DEBUG - Save package relationships
+15:10:49.096 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:49.097 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:49.110 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:49.111 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:49.112 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:49.112 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:49.113 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:49.119 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:49.120 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:49.122 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:49.126 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:49.229 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:49.231 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:49.232 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:49.234 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:49.248 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:49.316 [main] DEBUG - Save content types part
+15:10:49.322 [main] DEBUG - Save package relationships
+15:10:49.330 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:49.331 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:49.341 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:49.341 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:49.343 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:49.344 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:49.346 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:49.353 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:49.354 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:49.362 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:49.381 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:49.643 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:49.644 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:49.645 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:49.646 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:49.668 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:49.726 [main] DEBUG - Save content types part
+15:10:49.729 [main] DEBUG - Save package relationships
+15:10:49.732 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:49.733 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:49.737 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:49.738 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:49.738 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:49.739 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:49.740 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:49.743 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:49.744 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:49.748 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:49.753 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:49.836 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:49.839 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:49.840 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:49.841 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:49.855 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:49.892 [main] DEBUG - Save content types part
+15:10:49.895 [main] DEBUG - Save package relationships
+15:10:49.897 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:49.898 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:49.910 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:49.910 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:49.911 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:49.912 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:49.913 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:49.916 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:49.917 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:49.921 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:49.924 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:50.009 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:50.011 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:50.012 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:50.013 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:50.025 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:50.064 [main] DEBUG - Save content types part
+15:10:50.098 [main] DEBUG - Save package relationships
+15:10:50.107 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:50.108 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:50.111 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:50.112 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:50.113 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:50.113 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:50.114 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:50.125 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:50.126 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:50.129 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:50.132 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:50.244 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:50.245 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:50.246 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:50.247 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:50.263 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:50.335 [main] DEBUG - Save content types part
+15:10:50.338 [main] DEBUG - Save package relationships
+15:10:50.340 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:50.341 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:50.352 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:50.353 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:50.354 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:50.356 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:50.358 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:50.364 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:50.371 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:50.377 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:50.380 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:50.621 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:50.623 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:50.625 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:50.626 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:50.646 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:50.692 [main] DEBUG - Save content types part
+15:10:50.694 [main] DEBUG - Save package relationships
+15:10:50.697 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:50.697 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:50.700 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:50.702 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:50.703 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:50.704 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:50.706 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:50.708 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:50.709 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:50.712 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:50.716 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:50.846 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:50.848 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:50.853 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:50.855 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:50.870 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:50.920 [main] DEBUG - Save content types part
+15:10:50.923 [main] DEBUG - Save package relationships
+15:10:50.925 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:50.926 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:50.928 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:50.929 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:50.930 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:50.931 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:50.933 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:50.937 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:50.938 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:50.942 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:50.944 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:51.068 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:51.069 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:51.070 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:51.072 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:51.085 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:51.122 [main] DEBUG - Save content types part
+15:10:51.126 [main] DEBUG - Save package relationships
+15:10:51.128 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:51.128 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:51.131 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:51.132 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:51.134 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:51.137 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:51.138 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:51.141 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:51.142 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:51.145 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:51.148 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:51.296 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:51.297 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:51.299 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:51.301 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:51.313 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:51.356 [main] DEBUG - Save content types part
+15:10:51.358 [main] DEBUG - Save package relationships
+15:10:51.360 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:51.361 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:51.364 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:51.365 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:51.366 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:51.368 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:51.376 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:51.379 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:51.379 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:51.381 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:51.386 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:51.495 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:51.496 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:10:51.498 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:10:51.499 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:10:51.513 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:10:51.551 [main] DEBUG - Save content types part
+15:10:51.553 [main] DEBUG - Save package relationships
+15:10:51.556 [main] DEBUG - Save part 'docProps/app.xml'
+15:10:51.556 [main] DEBUG - Save part 'docProps/core.xml'
+15:10:51.559 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:10:51.560 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:10:51.561 [main] DEBUG - Save part 'xl/styles.xml'
+15:10:51.561 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:10:51.563 [main] DEBUG - Save part 'xl/workbook.xml'
+15:10:51.569 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:10:51.571 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:10:51.574 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:10:51.577 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:10:51.579 [main] INFO  - *** Finished TC_Surgeries ***
+15:11:02.151 [main] INFO  - Chrome browser opened successfully
+15:11:35.458 [main] INFO  - *** Starting TC_ScheduleDemoForm ***
+15:12:10.520 [main] INFO  - Schedule Demo page is Displayed
+15:12:10.944 [main] INFO  - InValid Email Id
+15:12:10.973 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:10.973 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:10.974 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:10.975 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:10.981 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:11.190 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:11.191 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:11.192 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:11.192 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:11.202 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:11.476 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:11.477 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:11.478 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:11.479 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:11.489 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:11.519 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+15:12:11.527 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+15:12:11.811 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:11.812 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:11.814 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:11.815 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:11.825 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:12.180 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:12.181 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:12.182 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:12.183 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:12.193 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:12.507 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:12.508 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:12.509 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:12.510 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:12.520 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:16.145 [main] INFO  - Is Schedule Button Enabled? 
+15:12:16.683 [main] INFO  - Error Message
+15:12:17.340 [main] INFO  - Clear InValid Email Id
+15:12:17.969 [main] INFO  - Valid Email Id
+15:12:17.974 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:12:17.974 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:12:17.975 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:12:17.976 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:12:17.985 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:12:19.726 [main] INFO  - Thank you message is displayed
+15:12:50.163 [main] INFO  - *** Finished TC_ScheduleDemoForm ***
+15:46:37.131 [main] INFO  - Chrome browser opened successfully
+15:48:03.843 [main] INFO  - Chrome browser opened successfully
+15:49:15.891 [main] INFO  - Chrome browser opened successfully
+15:50:08.954 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+15:50:08.964 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+15:50:08.968 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+15:50:08.971 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart7.xml.rels
+15:50:08.975 [main] DEBUG - Parsing relationship: /xl/charts/_rels/chart10.xml.rels
+15:50:08.978 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+15:50:08.987 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+15:50:08.989 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+15:50:08.992 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+15:50:08.995 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+15:50:08.997 [main] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+15:50:09.001 [main] DEBUG - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+15:50:09.003 [main] DEBUG - Parsing relationship: /xl/externalLinks/_rels/externalLink2.xml.rels
+15:50:09.005 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:50:09.010 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:50:09.012 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+15:50:09.017 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+15:50:09.019 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+15:50:09.021 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+15:50:09.023 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+15:50:09.026 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+15:50:09.028 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+15:50:09.031 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:50:09.640 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:50:09.648 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:50:09.649 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:50:09.650 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:50:09.651 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:50:09.655 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:50:09.687 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:50:09.690 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:50:09.702 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:50:09.705 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:50:09.707 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:50:09.709 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:50:09.711 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:50:09.714 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+15:50:09.801 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:50:09.802 [main] TRACE - Resolving type for handle externallinkb4c2doctype
+15:50:09.965 [main] TRACE - Resolving type for handle ctexternallink966etype
+15:50:09.977 [main] TRACE - Resolving type for handle themefd26doctype
+15:50:10.012 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+15:50:10.047 [main] TRACE - Resolving type for handle ctstylesheet4257type
+15:50:10.062 [main] TRACE - Resolving type for handle ctcolors6579type
+15:50:10.073 [main] TRACE - Resolving type for handle ctfonts6623type
+15:50:10.085 [main] TRACE - Resolving type for handle ctfont14d8type
+15:50:10.105 [main] TRACE - Resolving type for handle ctfills2c6ftype
+15:50:10.113 [main] TRACE - Resolving type for handle ctfill550ctype
+15:50:10.119 [main] TRACE - Resolving type for handle ctborders0d66type
+15:50:10.127 [main] TRACE - Resolving type for handle ctborderf935type
+15:50:10.137 [main] TRACE - Resolving type for handle ctcellxfs1322type
+15:50:10.147 [main] TRACE - Resolving type for handle ctxf97f7type
+15:50:10.160 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+15:50:10.168 [main] TRACE - Resolving type for handle ctdxfsb26atype
+15:50:10.176 [main] TRACE - Resolving type for handle cttablestyles872ftype
+15:50:10.189 [main] TRACE - Resolving type for handle sstf81fdoctype
+15:50:10.203 [main] TRACE - Resolving type for handle ctsst44f3type
+15:50:10.237 [main] TRACE - Resolving type for handle ctrsta472type
+15:50:10.324 [main] TRACE - Resolving type for handle calcchainfc37doctype
+15:50:10.333 [main] TRACE - Resolving type for handle ctcalcchain5a0btype
+15:50:10.348 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.353 [main] TRACE - Resolving type for handle ctdrawing2748type
+15:50:10.395 [main] TRACE - Resolving type for handle chartspace36e0doctype
+15:50:10.412 [main] TRACE - Resolving type for handle ctchartspacef9b4type
+15:50:10.454 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+15:50:10.455 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+15:50:10.455 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+15:50:10.456 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.481 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+15:50:10.482 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.496 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.519 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+15:50:10.520 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.521 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.538 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.561 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:50:10.565 [main] TRACE - Resolving type for handle xml2eb5doctype
+15:50:10.582 [main] TRACE - Resolving type for handle ctxml2989type
+15:50:10.589 [main] TRACE - Resolving element for handle shapelayoutelement
+15:50:10.595 [main] TRACE - Resolving type for handle ctshapelayoutbda4type
+15:50:10.597 [main] TRACE - Resolving type for handle shapelayoutebb0doctype
+15:50:10.619 [main] TRACE - Resolving element for handle shapetypeelement
+15:50:10.623 [main] TRACE - Resolving type for handle ctshapetype5c6ftype
+15:50:10.628 [main] TRACE - Resolving type for handle shapetypeb89bdoctype
+15:50:10.892 [main] TRACE - Resolving element for handle shapeelement
+15:50:10.895 [main] TRACE - Resolving type for handle ctshape5cb5type
+15:50:10.900 [main] TRACE - Resolving type for handle shapeaee1doctype
+15:50:10.937 [main] TRACE - Resolving type for handle comments4c11doctype
+15:50:10.946 [main] TRACE - Resolving type for handle ctcommentse3bdtype
+15:50:10.953 [main] TRACE - Resolving type for handle workbookec17doctype
+15:50:10.963 [main] TRACE - Resolving type for handle ctworkbook83c3type
+15:50:10.979 [main] TRACE - Resolving type for handle ctsheets49fdtype
+15:50:10.987 [main] TRACE - Resolving type for handle ctsheet4dbetype
+15:50:10.994 [main] TRACE - Resolving type for handle strelationshipid1e94type
+15:50:11.003 [main] TRACE - Resolving type for handle worksheetf539doctype
+15:50:11.014 [main] TRACE - Resolving type for handle ctworksheet530dtype
+15:50:11.037 [main] TRACE - Resolving type for handle ctcols627ctype
+15:50:11.048 [main] TRACE - Resolving type for handle ctcola95ftype
+15:50:11.086 [main] TRACE - Resolving type for handle ctsheetdata8408type
+15:50:11.096 [main] TRACE - Resolving type for handle ctrowdd39type
+15:50:11.111 [main] TRACE - Resolving type for handle ctcell842btype
+15:50:11.135 [main] TRACE - Resolving type for handle stcellrefe4e0type
+15:50:11.245 [main] TRACE - Resolving type for handle ctcellformula3583type
+15:50:11.273 [main] TRACE - Resolving type for handle stcellformulatypee2cdtype
+15:50:11.297 [main] TRACE - Resolving type for handle ctexternalreferencesd77ctype
+15:50:11.308 [main] TRACE - Resolving type for handle ctexternalreference945ftype
+15:50:11.324 [main] TRACE - Resolving type for handle ctdefinednamesce48type
+15:50:11.332 [main] TRACE - Resolving type for handle ctdefinedname9413type
+15:50:11.344 [main] TRACE - Resolving type for handle stxstringf179type
+15:50:11.368 [main] TRACE - Resolving type for handle stsheetstate158btype
+15:50:11.417 [main] TRACE - Resolving type for handle stcelltypebf95type
+15:50:11.471 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+15:50:11.477 [main] TRACE - Resolving type for handle stfontid9d63type
+15:50:11.482 [main] TRACE - Resolving type for handle stfillida097type
+15:50:11.487 [main] TRACE - Resolving type for handle stborderid1a80type
+15:50:11.492 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+15:50:11.521 [main] TRACE - Resolving type for handle ctcellalignmentb580type
+15:50:11.538 [main] TRACE - Resolving type for handle stverticalalignmentd35ctype
+15:50:11.547 [main] TRACE - Resolving type for handle ctborderpre497type
+15:50:11.556 [main] TRACE - Resolving type for handle stborderstylec774type
+15:50:11.565 [main] TRACE - Resolving type for handle ctcolord2c2type
+15:50:11.602 [main] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+15:50:11.620 [main] TRACE - Resolving type for handle ctdrawing44fdtype
+15:50:11.628 [main] TRACE - Resolving type for handle ctchartc108type
+15:50:11.641 [main] TRACE - Resolving type for handle cttitleb54etype
+15:50:11.758 [main] TRACE - Resolving type for handle cttx9678type
+15:50:11.762 [main] TRACE - Resolving type for handle cttextbodya3catype
+15:50:11.775 [main] TRACE - Resolving type for handle cttextparagraphcaf2type
+15:50:11.784 [main] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+15:50:11.826 [main] TRACE - Resolving type for handle ctplotarea106etype
+15:50:11.844 [main] TRACE - Resolving type for handle ctcatax7159type
+15:50:11.855 [main] TRACE - Resolving type for handle ctunsignedinte8ectype
+15:50:11.859 [main] TRACE - Resolving type for handle ctvalaxd06etype
+15:50:11.869 [main] TRACE - Resolving type for handle ctbarchart4151type
+15:50:11.881 [main] TRACE - Resolving type for handle ctbardir5f42type
+15:50:11.892 [main] TRACE - Resolving type for handle ctbarser960ftype
+15:50:11.900 [main] TRACE - Resolving type for handle ctaxdatasource1440type
+15:50:11.905 [main] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+15:50:11.913 [main] TRACE - Resolving type for handle ctstrref5d1atype
+15:50:11.919 [main] TRACE - Resolving type for handle ctstrdatad58btype
+15:50:11.927 [main] TRACE - Resolving type for handle ctnumref062ftype
+15:50:11.932 [main] TRACE - Resolving type for handle ctnumdata4f16type
+15:50:12.006 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+15:50:12.021 [main] TRACE - Resolving type for handle ctbookviewsb864type
+15:50:12.026 [main] TRACE - Resolving type for handle ctbookviewf677type
+15:50:12.040 [main] TRACE - Resolving type for handle propertiesee84doctype
+15:50:12.043 [main] TRACE - Resolving type for handle ctproperties3f10type
+15:50:12.059 [main] TRACE - Resolving type for handle properties288cdoctype
+15:50:12.063 [main] TRACE - Resolving type for handle ctproperties2c18type
+15:50:12.078 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+15:50:12.083 [main] TRACE - Resolving type for handle ctfontname2dc3type
+15:50:12.088 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+15:50:12.092 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+15:50:12.099 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+15:50:12.103 [main] TRACE - Resolving type for handle stfontschemef36dtype
+15:50:12.108 [main] TRACE - Resolving type for handle ctpatternfill7452type
+15:50:12.115 [main] TRACE - Resolving type for handle stpatterntype7939type
+15:50:12.122 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+15:50:12.129 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+15:50:12.132 [main] TRACE - Resolving type for handle ctsheetview0f43type
+15:50:12.145 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+15:50:12.149 [main] TRACE - Resolving type for handle stref90a2type
+15:50:12.153 [main] TRACE - Resolving type for handle ctpagemargins5455type
+15:50:12.165 [main] TRACE - Resolving type for handle ctstrval86cctype
+15:50:12.170 [main] TRACE - Resolving type for handle ctnumval2fe1type
+15:50:12.191 [main] TRACE - Resolving type for handle ctmergecells1242type
+15:50:12.198 [main] TRACE - Resolving type for handle ctmergecelle8d9type
+15:50:12.251 [main] TRACE - Resolving type for handle stunsignedinthex27datype
+15:50:12.270 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+15:50:12.278 [main] TRACE - Resolving type for handle ctsheetprotection22f7type
+15:50:12.373 [main] TRACE - Resolving type for handle ctpaneaab1type
+15:50:12.388 [main] TRACE - Resolving type for handle stpane2ac1type
+15:50:12.392 [main] TRACE - Resolving type for handle stpanestateae58type
+15:50:12.399 [main] TRACE - Resolving type for handle ctselectionca2btype
+15:50:12.525 [main] TRACE - Resolving type for handle ctworkbookprotection56bctype
+15:50:12.630 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+15:50:12.748 [main] DEBUG - Save content types part
+15:50:13.021 [main] DEBUG - Save package relationships
+15:50:13.028 [main] DEBUG - Save part 'docProps/app.xml'
+15:50:13.029 [main] DEBUG - Save part 'docProps/core.xml'
+15:50:13.039 [main] DEBUG - Save part 'xl/charts/chart1.xml'
+15:50:13.041 [main] DEBUG - Save part 'xl/charts/chart2.xml'
+15:50:13.042 [main] DEBUG - Save part 'xl/charts/chart3.xml'
+15:50:13.047 [main] DEBUG - Save part 'xl/charts/chart4.xml'
+15:50:13.051 [main] DEBUG - Save part 'xl/charts/chart5.xml'
+15:50:13.055 [main] DEBUG - Save part 'xl/charts/chart6.xml'
+15:50:13.057 [main] DEBUG - Save part 'xl/charts/chart7.xml'
+15:50:13.061 [main] DEBUG - Save part 'xl/charts/chart8.xml'
+15:50:13.062 [main] DEBUG - Save part 'xl/charts/chart9.xml'
+15:50:13.063 [main] DEBUG - Save part 'xl/charts/chart10.xml'
+15:50:13.067 [main] DEBUG - Save part 'xl/charts/chart11.xml'
+15:50:13.068 [main] DEBUG - Save part 'xl/charts/chart12.xml'
+15:50:13.069 [main] DEBUG - Save part 'xl/comments1.xml'
+15:50:13.069 [main] DEBUG - Save part 'xl/drawings/drawing1.xml'
+15:50:13.074 [main] DEBUG - Save part 'xl/drawings/drawing2.xml'
+15:50:13.075 [main] DEBUG - Save part 'xl/drawings/drawing3.xml'
+15:50:13.076 [main] DEBUG - Save part 'xl/drawings/drawing4.xml'
+15:50:13.077 [main] DEBUG - Save part 'xl/drawings/drawing5.xml'
+15:50:13.084 [main] DEBUG - Save part 'xl/drawings/drawing6.xml'
+15:50:13.085 [main] DEBUG - Save part 'xl/drawings/drawing8.xml'
+15:50:13.089 [main] DEBUG - Save part 'xl/drawings/drawing9.xml'
+15:50:13.090 [main] DEBUG - Save part 'xl/drawings/vmlDrawing1.vml'
+15:50:13.091 [main] DEBUG - Save part 'xl/externalLinks/externalLink1.xml'
+15:50:13.094 [main] DEBUG - Save part 'xl/externalLinks/externalLink2.xml'
+15:50:13.098 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+15:50:13.099 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+15:50:13.100 [main] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+15:50:13.100 [main] DEBUG - Save part 'xl/printerSettings/printerSettings5.bin'
+15:50:13.101 [main] DEBUG - Save part 'xl/printerSettings/printerSettings8.bin'
+15:50:13.102 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:50:13.104 [main] DEBUG - Save part 'xl/styles.xml'
+15:50:13.105 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+15:50:13.106 [main] DEBUG - Save part 'xl/workbook.xml'
+15:50:13.112 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:50:13.116 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:50:13.120 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+15:50:13.124 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+15:50:13.128 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+17:18:48.175 [main] INFO  - Chrome browser opened successfully
+17:20:21.997 [main] INFO  - Chrome browser opened successfully
+17:22:35.912 [main] INFO  - Chrome browser opened successfully
+17:23:32.284 [main] INFO  - Chrome browser opened successfully
+17:24:56.359 [main] INFO  - Chrome browser opened successfully
+17:25:21.828 [main] INFO  - Chrome browser opened successfully
+11:02:07.642 [main] INFO  - Chrome browser opened successfully
+11:04:53.914 [main] INFO  - Chrome browser opened successfully
+11:07:32.392 [main] INFO  - Chrome browser opened successfully
+11:09:31.178 [main] INFO  - Chrome browser opened successfully
+11:10:44.759 [main] INFO  - Chrome browser opened successfully
+11:11:15.470 [main] INFO  - Chrome browser opened successfully
+11:13:09.609 [main] INFO  - Chrome browser opened successfully
+11:13:55.637 [main] INFO  - Chrome browser opened successfully
+11:19:25.359 [main] INFO  - Chrome browser opened successfully
+11:19:40.937 [main] INFO  - *** Starting TC_01_SearchDoctors ***
+11:19:41.473 [main] INFO  -  Search Doc Speciality 
+11:20:07.598 [main] INFO  -  Search Location 
+11:20:13.332 [main] INFO  -  Applying filter for Patient Stories 
+11:20:18.841 [main] INFO  -  Applying filter for Experience 
+11:20:31.684 [main] INFO  -  Applying filter for Availabilty 
+11:20:37.914 [main] INFO  -  Applying Sorting 
+11:20:45.556 [main] INFO  -  Display Doctor Details 
+11:20:47.361 [main] INFO  - *** Finished TC_SearchDoctors ***
+11:20:56.459 [main] INFO  - Chrome browser opened successfully
+11:21:20.291 [main] INFO  - *** Starting TC_Surgeries ***
+11:21:30.333 [main] INFO  -  Clicked on Surgeries 
+11:21:38.363 [main] INFO  -  Validate  Surgeries Page 
+11:21:39.055 [main] INFO  -  Print Surgery Names 
+11:21:45.299 [main] INFO  - *** Finished TC_Surgeries ***
+11:21:55.357 [main] INFO  - Chrome browser opened successfully
+11:22:20.321 [main] INFO  - *** Starting TC_ScheduleDemoForm ***
+11:22:48.465 [main] INFO  - Schedule Demo page is Displayed
+11:22:49.293 [main] INFO  - InValid Email Id
+11:22:54.685 [main] INFO  - Is Schedule Button Enabled? 
+11:22:55.301 [main] INFO  - Error Message
+11:22:55.955 [main] INFO  - Clear InValid Email Id
+11:22:56.445 [main] INFO  - Valid Email Id
+11:23:11.629 [main] INFO  - Thank you message is displayed
+11:26:09.713 [main] INFO  - Chrome browser opened successfully
+11:27:01.753 [main] INFO  - Thank you message is displayed
+12:21:28.604 [main] INFO  - Chrome browser opened successfully
+12:22:04.615 [main] INFO  - *** Starting TC_01_SearchDoctors ***
+12:22:05.803 [main] INFO  -  Search Doc Speciality 
+12:23:37.224 [main] INFO  -  Search Location 
+12:25:20.252 [main] INFO  - Chrome browser opened successfully
+12:26:04.473 [main] INFO  - *** Starting TC_01_SearchDoctors ***
+12:26:05.704 [main] INFO  -  Search Doc Speciality 
+12:27:16.974 [main] INFO  -  Search Location 
+12:27:23.456 [main] INFO  -  Applying filter for Patient Stories 
+12:28:07.034 [main] INFO  -  Applying filter for Experience 
+12:29:34.137 [main] INFO  -  Applying filter for Availabilty 
+12:30:53.645 [main] INFO  -  Applying Sorting 
+12:31:39.476 [main] INFO  -  Display Doctor Details 
+12:31:44.430 [main] INFO  - *** Finished TC_SearchDoctors ***
+12:32:08.352 [main] INFO  - Chrome browser opened successfully
+12:32:50.163 [main] INFO  - *** Starting TC_Surgeries ***
+12:33:00.235 [main] INFO  -  Clicked on Surgeries 
+12:33:08.657 [main] INFO  -  Validate  Surgeries Page 
+12:33:09.751 [main] INFO  -  Print Surgery Names 
+12:33:20.156 [main] INFO  - *** Finished TC_Surgeries ***
+12:33:37.184 [main] INFO  - Chrome browser opened successfully
+12:34:18.924 [main] INFO  - *** Starting TC_ScheduleDemoForm ***
+12:35:28.073 [main] INFO  - Schedule Demo page is Displayed
+12:35:28.668 [main] INFO  - InValid Email Id
+12:35:34.651 [main] INFO  - Is Schedule Button Enabled? 
+12:35:35.386 [main] INFO  - Error Message
+12:35:36.382 [main] INFO  - Clear InValid Email Id
+12:35:37.213 [main] INFO  - Valid Email Id
+12:35:39.391 [main] INFO  - Thank you message is displayed

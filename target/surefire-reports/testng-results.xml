@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="20" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T12:25:03 IST" name="Suite" finished-at="2024-03-05T12:37:32 IST" duration-ms="749460">
+    <groups>
+      <group name="Surgery">
+        <method signature="TC_Surgeries.displaySurgeries()[pri:1, instance:testCases.TC_Surgeries@d737b89]" name="displaySurgeries" class="testCases.TC_Surgeries"/>
+        <method signature="TC_Surgeries.validatepage()[pri:2, instance:testCases.TC_Surgeries@d737b89]" name="validatepage" class="testCases.TC_Surgeries"/>
+      </group> <!-- Surgery -->
+      <group name="Regression">
+        <method signature="TC_Surgeries.displaySurgeries()[pri:1, instance:testCases.TC_Surgeries@d737b89]" name="displaySurgeries" class="testCases.TC_Surgeries"/>
+        <method signature="TC_Surgeries.printsurgery()[pri:3, instance:testCases.TC_Surgeries@d737b89]" name="printsurgery" class="testCases.TC_Surgeries"/>
+      </group> <!-- Regression -->
+      <group name="master">
+        <method signature="TC_Surgeries.displaySurgeries()[pri:1, instance:testCases.TC_Surgeries@d737b89]" name="displaySurgeries" class="testCases.TC_Surgeries"/>
+        <method signature="TC_Surgeries.printsurgery()[pri:3, instance:testCases.TC_Surgeries@d737b89]" name="printsurgery" class="testCases.TC_Surgeries"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-03-05T12:25:03 IST" name="SearchFilters" finished-at="2024-03-05T12:37:32 IST" duration-ms="749460">
+      <class name="testCases.TC_Surgeries">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_Surgeries@d737b89]" started-at="2024-03-05T12:31:57 IST" name="setup" finished-at="2024-03-05T12:32:50 IST" duration-ms="52639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="displaySurgeries()[pri:1, instance:testCases.TC_Surgeries@d737b89]" started-at="2024-03-05T12:32:50 IST" name="displaySurgeries" finished-at="2024-03-05T12:33:07 IST" duration-ms="17724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaySurgeries -->
+        <test-method signature="validatepage()[pri:2, instance:testCases.TC_Surgeries@d737b89]" started-at="2024-03-05T12:33:08 IST" name="validatepage" finished-at="2024-03-05T12:33:08 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepage -->
+        <test-method signature="printsurgery()[pri:3, instance:testCases.TC_Surgeries@d737b89]" started-at="2024-03-05T12:33:09 IST" name="printsurgery" finished-at="2024-03-05T12:33:20 IST" duration-ms="10408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printsurgery -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_Surgeries@d737b89]" started-at="2024-03-05T12:33:20 IST" name="tearDown" finished-at="2024-03-05T12:33:26 IST" duration-ms="6317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_Surgeries -->
+      <class name="testCases.TC_ScheduleDemoForm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:33:26 IST" name="setup" finished-at="2024-03-05T12:34:18 IST" duration-ms="52064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ForCorporatesDrpDown()[pri:1, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:34:18 IST" name="ForCorporatesDrpDown" finished-at="2024-03-05T12:34:19 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForCorporatesDrpDown -->
+        <test-method signature="selectHealthandWellnessPlans()[pri:2, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:34:20 IST" name="selectHealthandWellnessPlans" finished-at="2024-03-05T12:35:27 IST" duration-ms="67299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHealthandWellnessPlans -->
+        <test-method signature="validatePage()[pri:3, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:28 IST" name="validatePage" finished-at="2024-03-05T12:35:28 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="inValidDetails()[pri:4, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:28 IST" name="inValidDetails" finished-at="2024-03-05T12:35:34 IST" duration-ms="5433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidDetails -->
+        <test-method signature="validateScheduleButtonEnabled()[pri:5, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:34 IST" name="validateScheduleButtonEnabled" finished-at="2024-03-05T12:35:34 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateScheduleButtonEnabled -->
+        <test-method signature="printErrorMessage()[pri:6, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:35 IST" name="printErrorMessage" finished-at="2024-03-05T12:35:35 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorMessage -->
+        <test-method signature="clearEmailId()[pri:7, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:36 IST" name="clearEmailId" finished-at="2024-03-05T12:35:36 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEmailId -->
+        <test-method signature="validEmailId()[pri:8, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:37 IST" name="validEmailId" finished-at="2024-03-05T12:35:37 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validEmailId -->
+        <test-method signature="clickScheduleButtonEnabled()[pri:9, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:38 IST" name="clickScheduleButtonEnabled" finished-at="2024-03-05T12:35:38 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickScheduleButtonEnabled -->
+        <test-method signature="validateThankYouMessage()[pri:10, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:35:39 IST" name="validateThankYouMessage" finished-at="2024-03-05T12:37:20 IST" duration-ms="101318" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//div[@class='u-text--bold text-alpha'][normalize-space()='THANK YOU'])' (tried for 60 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//div[@class='u-text--bold text-alpha'][normalize-space()='THANK YOU'])' (tried for 60 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at pageObjects.ScheduleDemoForm.thankYou(ScheduleDemoForm.java:221)
+at testCases.TC_ScheduleDemoForm.validateThankYouMessage(TC_ScheduleDemoForm.java:71)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@class='u-text--bold text-alpha'][normalize-space()='THANK YOU'])"}
+  (Session info: MicrosoftEdge=122.0.2365.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5f66e34ca1b51ea0b4c82e4315e2581e, findElement {using=xpath, value=(//div[@class='u-text--bold text-alpha'][normalize-space()='THANK YOU'])}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.59, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64283}, msedge: {msedgedriverVersion: 122.0.2365.66 (ab363614b8f0..., userDataDir: C:\Windows\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64283/devtoo..., se:cdpVersion: 122.0.2365.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f66e34ca1b51ea0b4c82e4315e2581e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateThankYouMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_ScheduleDemoForm@8519cb4]" started-at="2024-03-05T12:37:21 IST" name="tearDown" finished-at="2024-03-05T12:37:32 IST" duration-ms="11358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_ScheduleDemoForm -->
+      <class name="testCases.TC_SearchDoctors">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:25:04 IST" name="setup" finished-at="2024-03-05T12:26:04 IST" duration-ms="59885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatePractoPage()[pri:1, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:26:04 IST" name="validatePractoPage" finished-at="2024-03-05T12:26:04 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePractoPage -->
+        <test-method signature="searchDoctorSpeciality()[pri:2, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:26:05 IST" name="searchDoctorSpeciality" finished-at="2024-03-05T12:27:12 IST" duration-ms="66395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchDoctorSpeciality -->
+        <test-method signature="searchLocation()[pri:3, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:27:12 IST" name="searchLocation" finished-at="2024-03-05T12:27:23 IST" duration-ms="10532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLocation -->
+        <test-method signature="patientStoriesFilter()[pri:4, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:27:23 IST" name="patientStoriesFilter" finished-at="2024-03-05T12:28:06 IST" duration-ms="43195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patientStoriesFilter -->
+        <test-method signature="experienceFilter()[pri:5, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:28:07 IST" name="experienceFilter" finished-at="2024-03-05T12:28:53 IST" duration-ms="46211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- experienceFilter -->
+        <test-method signature="feesandAvailabilityFilters()[pri:6, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:29:31 IST" name="feesandAvailabilityFilters" finished-at="2024-03-05T12:30:17 IST" duration-ms="46169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feesandAvailabilityFilters -->
+        <test-method signature="sorting()[pri:7, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:30:53 IST" name="sorting" finished-at="2024-03-05T12:31:38 IST" duration-ms="45249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sorting -->
+        <test-method signature="PrintDoctorDetails()[pri:8, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:31:39 IST" name="PrintDoctorDetails" finished-at="2024-03-05T12:31:44 IST" duration-ms="4956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintDoctorDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_SearchDoctors@79e4c792]" started-at="2024-03-05T12:31:45 IST" name="tearDown" finished-at="2024-03-05T12:31:57 IST" duration-ms="12304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_SearchDoctors -->
+    </test> <!-- SearchFilters -->
+  </suite> <!-- Suite -->
+</testng-results>
